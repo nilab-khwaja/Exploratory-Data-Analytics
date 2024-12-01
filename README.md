@@ -42,6 +42,9 @@ Python
 
 - [Live Demo Link]( https://colab.research.google.com/drive/1Xj1sahLaAZKpD1tQssN9TgYfhW4JtpeP?usp=drive_link)
 
+ Click to see Report
+ [Report](https://docs.google.com/document/d/1W_VKwpDvhMNLxZA0GN1AYpCdMU6qgHHkLh01-X0yGrg/edit?usp=drive_link)
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
