@@ -122,7 +122,7 @@ If you like this project, show your support by giving a star ⭐️, thanks in a
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to extend my gratitude to <a href="[https://www.python.org/](https://femstech.com/www.femstech.com/index.html)" target="_blank">FemTech</a> for their guidance and inspiration in creating this EDA.
+I would like to extend my gratitude to <a href="https://femstech.com/www.femstech.com/index.html">FemTech</a> for their guidance and inspiration in creating this EDA.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
