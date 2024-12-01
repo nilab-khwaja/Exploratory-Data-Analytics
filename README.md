@@ -36,6 +36,12 @@ Python
 - <a href="https://www.python.org/">Python</a>
 - Libraries: pandas, matplotlib, seaborn, numpy, plotly
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here you can see a live demo of Project
+
+- [Live Demo Link]( https://colab.research.google.com/drive/1Xj1sahLaAZKpD1tQssN9TgYfhW4JtpeP?usp=drive_link)
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
